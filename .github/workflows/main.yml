@@ -2,7 +2,7 @@ name: My First Manual Workflow
 on: [workflow_dispatch]
 jobs:
   example:
-    name: Example Job
+    name: Example Job 2
     runs-on: ubuntu-latest
     steps:
       - name: Clone Repository
